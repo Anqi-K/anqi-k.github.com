@@ -25,8 +25,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[更多信息见课题组网站](http://isynbio.siat.ac.cn/zhonglab/).
 
 ### 爱好
 
