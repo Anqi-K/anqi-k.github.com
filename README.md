@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## 康安琪 (Agatha)
 
-You can use the [editor on GitHub](https://github.com/Anqi-K/anqi-k.github.com/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+2014.10 ~ 2018.06 [东北大学](http://www.neu.edu.cn/) 本科 应用化学.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
