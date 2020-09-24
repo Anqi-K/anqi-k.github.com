@@ -2,11 +2,11 @@
 
 2014.10 ~ 2018.06 [东北大学](http://www.neu.edu.cn/) 本科 应用化学.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+2018.09 ~ 2021.06 [上海科技大学](https://www.shanghaitech.edu.cn/) 硕士 材料科学与工程.
 
-### Markdown
+### 研究方向
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+以金属有机框架（MOF）和可基因编辑的细菌为基础，制备对外界环境有所响应的living material.
 
 ```markdown
 Syntax highlighted code block
@@ -28,10 +28,10 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### 爱好
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Anqi-K/anqi-k.github.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+羽毛球、游泳和单车，擅长绘画，爱看纪录片，最喜欢的美食博主是 [绵羊料理](https://space.bilibili.com/18202105). 
 
-### Support or Contact
+### 自我评价
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+喜欢有挑战的事情，一直在突破自己，对生活充满热情，对未来抱有期待.
