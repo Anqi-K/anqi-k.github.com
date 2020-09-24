@@ -1,5 +1,5 @@
 ## 康安琪 (Agatha)
-
+![Image](img/1)
 2014.10 ~ 2018.06 [东北大学](http://www.neu.edu.cn/) 本科 应用化学.
 
 2018.09 ~ 2021.06 [上海科技大学](https://www.shanghaitech.edu.cn/) 硕士 材料科学与工程.
