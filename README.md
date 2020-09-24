@@ -25,7 +25,7 @@
 
 羽毛球、游泳和单车，擅长绘画，爱看纪录片，最喜欢的美食博主是 [绵羊料理](https://space.bilibili.com/18202105). 
 
-![Image](./img/2.jpg)
+![Image](https://github.com/Anqi-K/anqi-k.github.io/blob/07725330b89e2c9079035314e040a0e923a29f7c/img/2.jpg)
 
 ### 自我评价
 
