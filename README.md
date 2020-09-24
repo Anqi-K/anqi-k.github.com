@@ -13,7 +13,7 @@
 1.工程活体材料：由无机或有机材料与可进行基因编辑的微生物或细胞构成，具有结构复杂、可工程和对外界环境有所响应的优点，被应用于模拟血管、呼吸道，以及药物缓释和人工光合等领域。
 
 <img src="<img src="https://www.github.com/Anqi-K/anqi-k.github.io/raw/master/img/5.jpg" />" />
-![Image1](<img src="https://www.github.com/Anqi-K/anqi-k.github.io/raw/master/img/5.jpg" />)
+![Image1](github.com/Anqi-K/anqi-k.github.io/raw/master/img/5.jpg)
 
 2. 金属有机框架：简称MOFs，是由有机配体和金属离子或团簇通过配位键自组装形成的具有分子内孔隙的有机-无机杂化材料。目前，已有封装蛋白质，酶等研究，对生物大分子起到保护和辅助发挥功能的作用。
 <img src="./img/5.jpg"/>
